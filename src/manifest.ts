@@ -3,7 +3,7 @@ import Server from './server';
 
 class Manifest extends Server {
   constructor() {
-    super();
+    super({ ...config });
   }
 
   async setup() : Promise<void> {
