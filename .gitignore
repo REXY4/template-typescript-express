@@ -1,5 +1,6 @@
-#ignore
+.idea/
+.vscode/
 node_modules/
-dist/
-.env
 build/
+tmp/
+temp/

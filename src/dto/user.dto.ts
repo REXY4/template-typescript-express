@@ -12,16 +12,29 @@ export class CreateUserDto {
     @IsDefined()
     @IsString()
     @MinLength(3)
-    name!: string;
+    name: string;
 
   @IsNotEmpty()
     @IsEmail()
-    email!: string;
+    email: string;
 
   @IsNotEmpty()
-    @Matches(/^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)\S+$/)
+    // @Matches(/^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)\S+$/)
     @IsDefined()
     @IsString()
     @MinLength(8)
-    password!: string;
+    password: string;
+}
+
+export class LoginUserDto {
+  @IsNotEmpty()
+    @IsEmail()
+    email: string;
+
+  @IsNotEmpty()
+    // @Matches(/^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)\S+$/)
+    @IsDefined()
+    @IsString()
+    @MinLength(8)
+    password: string;
 }

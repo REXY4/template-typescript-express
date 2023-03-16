@@ -10,7 +10,8 @@
       "import-name": false,
       "prefer-array-literal" : false,
       "object-shorthand-properties-first" : false,
-      "max-line-length" : false
+      "max-line-length" : false,
+      "variable-name" : false
     },
     "rulesDirectory": []
   }

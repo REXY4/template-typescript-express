@@ -1,5 +1,8 @@
 import express from 'express';
+import * as dotenv from 'dotenv';
+dotenv.config();
 import controllers from './controllers';
+import { errorHandler } from './exceptions/error-handler';
 import logger from './logger/logger';
 import httpRequestMiddleware from './middlewares/httpLogger';
 import routers from './routers';
@@ -21,6 +24,7 @@ class Server {
     this.app.use(express.urlencoded({ extended: true }));
     this.app.get('/api/v1', httpRequestMiddleware, controllers.ping.checkALl);
     this.setupRoutes();
+    this.app.use(errorHandler)
   }
 
   public async startServer(): Promise<void> {

@@ -1,14 +1,14 @@
-import { createConnection } from 'typeorm';
+import 'reflect-metadata'
 import config from '../config';
-import logger from './logger/logger';
 import Server from './server';
-import routers from './routers';
+import { SqlOrm } from './sql/orm';
 
 class Manifest extends Server {
-  private routes:any;
+  private sqlOrm:any;
+
   constructor() {
     super({ ...config });
-
+    this.sqlOrm =  new SqlOrm();
   }
 
   async setup() : Promise<void> {
@@ -21,20 +21,7 @@ class Manifest extends Server {
   }
 
   async setupSql():Promise<void> {
-    const { type, host, port,  username, password, database } = config.sql;
-    await createConnection({
-      type,
-      host,
-      port,
-      username,
-      password,
-      database,
-    }).then(() => {
-      logger.info('Connected to database');
-    }).catch((error) => {
-      logger.error(`Error connecting to database: ${error}`);
-      throw error
-    });
+    await this.sqlOrm.start();
   }
 }
 

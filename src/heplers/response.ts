@@ -8,7 +8,7 @@ interface ResObject {
   data : any
 }
 
-function response(messages:string, data:any) {
+function handleResponse(messages:string, data:any) {
   const responseObj: ResObject = {
     statusCode: 200,
     status: 'success',
@@ -18,4 +18,4 @@ function response(messages:string, data:any) {
   return responseObj;
 }
 
-export default response;
+export default handleResponse;
