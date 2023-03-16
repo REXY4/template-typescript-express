@@ -1,200 +1,56 @@
-2023-03-16 01:27:34:2734 [35mhttp[39m: [35mGET / 304 - - 11.257 ms[39m
+[[32minfo[39m] 2023-03-16 08:28:08:288 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
+[[32minfo[39m] 2023-03-16 08:53:47:5347 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
+[[32minfo[39m] 2023-03-16 08:53:56:5356 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
+[[32minfo[39m] 2023-03-16 08:53:59:5359 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
+[[32minfo[39m] 2023-03-16 08:54:08:548 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
+[[32minfo[39m] 2023-03-16 08:54:25:5425 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
+[[32minfo[39m] 2023-03-16 08:54:31:5431 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
+[[32minfo[39m] 2023-03-16 08:55:10:5510 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
+[[32minfo[39m] 2023-03-16 08:55:21:5521 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
+[[32minfo[39m] 2023-03-16 09:05:08:58 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
+[[32minfo[39m] 2023-03-16 09:05:24:524 | [32mcreate data success[39m
+[[35mhttp[39m] 2023-03-16 09:05:24:524 | [35mGET / 200 174 - 16.633 ms[39m
 [35m[39m
-2023-03-16 01:28:16:2816 [35mhttp[39m: [35mGET / 304 - - 9.295 ms[39m
+[[32minfo[39m] 2023-03-16 09:05:47:547 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
+[[32minfo[39m] 2023-03-16 09:05:47:547 | [32mcreate data success[39m
+[[35mhttp[39m] 2023-03-16 09:05:47:547 | [35mGET / 200 174 - 8.205 ms[39m
 [35m[39m
-2023-03-16 01:29:57:2957 [35mhttp[39m: [35mGET / 304 - - 14.507 ms[39m
+[[32minfo[39m] 2023-03-16 09:05:56:556 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
+[[32minfo[39m] 2023-03-16 09:06:06:66 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
+[[32minfo[39m] 2023-03-16 09:06:10:610 | [32mcreate data success[39m
+[[35mhttp[39m] 2023-03-16 09:06:10:610 | [35mGET / 200 174 - 11.969 ms[39m
 [35m[39m
-2023-03-16 01:30:18:3018 [35mhttp[39m: [35mGET / 304 - - 11.244 ms[39m
+[[32minfo[39m] 2023-03-16 09:06:30:630 | [32mcreate data success[39m
+[[35mhttp[39m] 2023-03-16 09:06:30:630 | [35mGET / 200 174 - 6.486 ms[39m
 [35m[39m
-2023-03-16 01:40:26:4026 [35mhttp[39m: 
-2023-03-16 01:40:36:4036 [35mhttp[39m: [35mmessage[39m
-2023-03-16 01:40:43:4043 [35mhttp[39m: [35mmessage[39m
-2023-03-16 01:40:46:4046 [35mhttp[39m: [35mmessage[39m
-2023-03-16 01:40:53:4053 [35mhttp[39m: [35mmessage[39m
-2023-03-16 01:43:43:4343 [32minfo[39m: [32m[32minfo[32m[39m
-2023-03-16 01:43:50:4350 [32minfo[39m: [32mcreate message[39m
-2023-03-16 01:43:55:4355 [32minfo[39m: [32mcreate message[39m
-2023-03-16 01:43:59:4359 [32minfo[39m: [32mcreate message[39m
-2023-03-16 01:44:55:4455 [37mdebug[39m: [37mcreate message[39m
-2023-03-16 01:45:09:459 [31merror[39m: [31mcreate message[39m
-2023-03-16 01:45:09:459 [31merror[39m: [31mcreate message[39m
-2023-03-16 01:46:41:4641 [32minfo[39m: [32mcreate message[39m
-2023-03-16 01:46:49:4649 [32minfo[39m: [32mcreate message[39m
-2023-03-16 01:47:04:474 [32minfo[39m: [32mMessage already read[39m
-2023-03-16 01:47:20:4720 [32minfo[39m: [32m{}[39m
-2023-03-16 01:47:32:4732 [32minfo[39m: [32m{ app: 'express-typescript' }[39m
-2023-03-16 01:47:33:4733 [32minfo[39m: [32m{ app: 'express-typescript' }[39m
-2023-03-16 01:47:54:4754 [32minfo[39m: [32m{ app: 'express-typescript', port: 4000 }[39m
-2023-03-16 01:47:56:4756 [32minfo[39m: [32m{ app: 'express-typescript', port: 4000 }[39m
-2023-03-16 01:48:47:4847 [32minfo[39m: [32m{"app":"express-typescript","port":4000}[39m
-2023-03-16 01:50:09:509 [32minfo[39m: [32mhello world[39m
-2023-03-16 01:50:26:5026 [31merror[39m: [31mhello world[39m
-2023-03-16 01:50:26:5026 [31merror[39m: [31mhello world[39m
-2023-03-16 01:50:36:5036 [31merror[39m: [31mhello world[39m
-2023-03-16 01:50:36:5036 [31merror[39m: [31mhello world[39m
-{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mcREATE MESSAGE\u001b[39m","timestamp":"2023-03-16 01:59:52:5952"}
-{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mcREATE MESSAGE\u001b[39m","timestamp":"2023-03-16 02:00:15:015"}
-{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mcREATE MESSAGE\u001b[39m","timestamp":"2023-03-16 02:00:17:017"}
-{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mcREATE MESSAGE\u001b[39m","timestamp":"2023-03-16 02:03:43:343"}
-2023-03-16 02:04:09:49 [32minfo[39m: [32mcREATE MESSAGE[39m
-['INFO'] 2023-03-16 02:04:43:443 [32minfo[39m: [32mcREATE MESSAGE[39m
-['INFO'] 2023-03-16 02:05:06:56 [34minfo[39m: [34mcREATE MESSAGE[39m
-[[34minfo[39m] 2023-03-16 02:05:36:536 [34minfo[39m: [34mcREATE MESSAGE[39m
-["[34minfo[39m"] 2023-03-16 02:05:45:545 [34minfo[39m: [34mcREATE MESSAGE[39m
-["[34MINFO[39M"] 2023-03-16 02:06:01:61 [34minfo[39m: [34mcREATE MESSAGE[39m
-["[34MINFO[39M"] 2023-03-16 02:06:15:615 [34minfo[39m: [34mcREATE MESSAGE[39m
-["[34minfo[39m"] 2023-03-16 02:06:25:625 [34minfo[39m: [34mcREATE MESSAGE[39m
-["[34minfo[39m"] 2023-03-16 02:06:49:649 [34minfo[39m: [34mcREATE MESSAGE[39m
-[[34minfo[39m] 2023-03-16 02:06:59:659 [34minfo[39m: [34mcREATE MESSAGE[39m
-[[34minfo[39m] 2023-03-16 02:07:27:727 [34minfo[39m: [34mcREATE MESSAGE[39m
-[[34minfo[39m] 2023-03-16 02:07:51:751 [34minfo[39m: [34mcREATE MESSAGE[39m
-[[34minfo[39m] 2023-03-16 02:07:52:752 [34minfo[39m: [34mcREATE MESSAGE[39m
-[[34minfo[39m] 2023-03-16 02:08:30:830 [34minfo[39m: [34mcREATE MESSAGE[39m
-[[34minfo[39m] 2023-03-16 02:08:30:830 [34minfo[39m: [34m⚡️[server]: Server is running at http://localhost:4000[39m
-[[34minfo[39m] 2023-03-16 02:09:16:916 [34minfo[39m: [34mcREATE MESSAGE[39m
-[[34minfo[39m] 2023-03-16 02:09:16:916 [34minfo[39m: [34m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:09:46:946 [32minfo[39m: [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:09:46:946 [32minfo[39m: [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:10:42:1042 [32minfo[39m: [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:10:42:1042 [32minfo[39m: [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:11:39:1139 [32minfo[39m: [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:11:39:1139 [32minfo[39m: [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:12:27:1227 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:12:27:1227 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:12:56:1256 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:12:56:1256 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:19:48:1948 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:19:48:1948 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:19:50:1950 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:19:51:1951 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:19:52:1952 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:19:52:1952 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:19:54:1954 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:19:54:1954 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:29:43:2943 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:29:43:2943 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:29:48:2948 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:29:48:2948 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:31:02:312 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:31:02:312 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:31:04:314 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:31:04:314 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:31:18:3118 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:31:18:3118 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:31:19:3119 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:31:19:3119 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:31:20:3120 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:31:20:3120 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:31:27:3127 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:31:27:3127 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:31:29:3129 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:31:29:3129 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:31:32:3132 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:31:32:3132 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:31:34:3134 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:31:34:3134 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:31:42:3142 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:31:42:3142 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:32:06:326 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:32:06:326 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:32:07:327 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:32:07:327 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:32:10:3210 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:32:10:3210 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:36:53:3653 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:36:53:3653 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:36:59:3659 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:36:59:3659 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:37:13:3713 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:37:13:3713 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:41:47:4147 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:41:47:4147 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:41:59:4159 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:41:59:4159 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:42:03:423 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:42:03:423 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:42:48:4248 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:42:48:4248 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:42:53:4253 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:42:53:4253 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:43:06:436 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:43:06:436 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:43:08:438 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:43:08:438 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:44:08:448 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:44:08:448 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:44:15:4415 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:44:15:4415 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:44:16:4416 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:44:16:4416 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:45:03:453 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:45:03:453 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:45:06:456 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:45:06:456 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:45:09:459 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:45:09:459 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:45:11:4511 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:45:11:4511 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:45:11:4511 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:45:11:4511 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:45:12:4512 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:45:12:4512 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:45:17:4517 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:45:17:4517 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:45:37:4537 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:45:37:4537 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:45:38:4538 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:45:38:4538 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:45:40:4540 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:45:40:4540 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:45:44:4544 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:45:44:4544 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:45:46:4546 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:45:46:4546 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:45:47:4547 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:45:47:4547 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:45:50:4550 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:45:50:4550 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:45:51:4551 | [32mcREATE MESSAGE[39m
-[[32minfo[39m] 2023-03-16 02:45:51:4551 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:46:13:4613 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:46:20:4620 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:46:26:4626 | [32m⚡️[server]: Server is running at http://localhost:undefined[39m
-[[32minfo[39m] 2023-03-16 02:46:41:4641 | [32m⚡️[server]: Server is running at http://localhost:undefined[39m
-[[32minfo[39m] 2023-03-16 02:46:51:4651 | [32m⚡️[server]: Server is running at http://localhost:undefined[39m
-[[32minfo[39m] 2023-03-16 02:46:52:4652 | [32m⚡️[server]: Server is running at http://localhost:undefined[39m
-[[32minfo[39m] 2023-03-16 02:47:04:474 | [32m⚡️[server]: Server is running at http://localhost:undefined[39m
-[[32minfo[39m] 2023-03-16 02:47:06:476 | [32m⚡️[server]: Server is running at http://localhost:undefined[39m
-[[32minfo[39m] 2023-03-16 02:47:22:4722 | [32m⚡️[server]: Server is running at http://localhost:undefined[39m
-[[32minfo[39m] 2023-03-16 02:48:13:4813 | [32m⚡️[server]: Server is running at http://localhost:undefined[39m
-[[32minfo[39m] 2023-03-16 02:48:16:4816 | [32m⚡️[server]: Server is running at http://localhost:undefined[39m
-[[32minfo[39m] 2023-03-16 02:48:17:4817 | [32m⚡️[server]: Server is running at http://localhost:undefined[39m
-[[32minfo[39m] 2023-03-16 02:48:54:4854 | [32m⚡️[server]: Server is running at http://localhost:undefined[39m
-[[32minfo[39m] 2023-03-16 02:49:08:498 | [32m⚡️[server]: Server is running at http://localhost:undefined[39m
-[[32minfo[39m] 2023-03-16 02:49:13:4913 | [32m⚡️[server]: Server is running at http://localhost:undefined[39m
-[[32minfo[39m] 2023-03-16 02:49:14:4914 | [32m⚡️[server]: Server is running at http://localhost:undefined[39m
-[[32minfo[39m] 2023-03-16 02:49:26:4926 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:49:30:4930 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:50:04:504 | [32minfo app[39m
-[[32minfo[39m] 2023-03-16 02:50:04:504 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:50:14:5014 | [32minfo app[39m
-[[32minfo[39m] 2023-03-16 02:50:14:5014 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:51:21:5121 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:51:22:5122 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:51:25:5125 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:52:37:5237 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:52:39:5239 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:53:02:532 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mcREATE MESSAGE\u001b[39m","timestamp":"2023-03-16 02:55:04:554"}
-[[32minfo[39m] 2023-03-16 02:55:11:5511 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 02:56:38:5638 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[35mhttp[39m] 2023-03-16 02:58:26:5826 | [35mGET / 304 - - 10.258 ms[39m
+[[32minfo[39m] 2023-03-16 09:07:20:720 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
+[[32minfo[39m] 2023-03-16 09:07:22:722 | [32mcreate data success[39m
+[[32minfo[39m] 2023-03-16 09:07:23:723 | [32mcreate data success[39m
+[[32minfo[39m] 2023-03-16 09:07:29:729 | [32mcreate data success[39m
+[[32minfo[39m] 2023-03-16 09:07:44:744 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
+[[32minfo[39m] 2023-03-16 09:08:02:82 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
+[[32minfo[39m] 2023-03-16 09:08:25:825 | [32mcreate data success[39m
+[[32minfo[39m] 2023-03-16 09:09:07:97 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
+[[32minfo[39m] 2023-03-16 09:09:08:98 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
+[[32minfo[39m] 2023-03-16 09:09:21:921 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
+[[32minfo[39m] 2023-03-16 09:09:22:922 | [32mcreate data success[39m
+[[32minfo[39m] 2023-03-16 09:11:10:1110 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
+[[32minfo[39m] 2023-03-16 09:11:23:1123 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
+[[32minfo[39m] 2023-03-16 09:11:28:1128 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
+[[35mhttp[39m] 2023-03-16 09:11:35:1135 | [35mGET / 200 81 - 10.138 ms[39m
 [35m[39m
-[[32minfo[39m] 2023-03-16 03:04:36:436 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[32minfo[39m] 2023-03-16 03:05:00:50 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[31merror[39m] 2023-03-16 03:05:47:547 | [31mits error[39m
-[[31merror[39m] 2023-03-16 03:05:47:547 | [31mits error[39m
-[[32minfo[39m] 2023-03-16 03:05:47:547 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
-[[35mhttp[39m] 2023-03-16 03:06:02:62 | [35mGET / 304 - - 8.006 ms[39m
+[[32minfo[39m] 2023-03-16 09:13:10:1310 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
+[[32minfo[39m] 2023-03-16 09:13:37:1337 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
+[[35mhttp[39m] 2023-03-16 09:13:42:1342 | [35m::ffff:127.0.0.1 - GET / HTTP/1.1 304 - - 11.831 ms[39m
 [35m[39m
-[[32minfo[39m] 2023-03-16 03:06:34:634 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
+[[32minfo[39m] 2023-03-16 09:14:48:1448 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
+[[35mhttp[39m] 2023-03-16 09:14:51:1451 | [35m::ffff:127.0.0.1 - GET / HTTP/1.1 304 - - 6.713 ms[39m
+[35m[39m
+[[32minfo[39m] 2023-03-16 09:15:13:1513 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
+[[35mhttp[39m] 2023-03-16 09:15:20:1520 | [35m::ffff:127.0.0.1 - GET /api/v1 HTTP/1.1 200 81 - 11.524 ms[39m
+[35m[39m
+[[32minfo[39m] 2023-03-16 09:15:44:1544 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
+[[35mhttp[39m] 2023-03-16 09:15:50:1550 | [35mGET /api/v1 304 - - 6.622 ms[39m
+[35m[39m
+[[32minfo[39m] 2023-03-16 09:15:58:1558 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
+[[32minfo[39m] 2023-03-16 09:16:06:166 | [32m⚡️[server]: Server is running at http://localhost:4000[39m

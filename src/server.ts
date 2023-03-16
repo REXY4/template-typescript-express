@@ -1,4 +1,5 @@
 import express, { Request, Response } from 'express';
+import controllers from './controllers';
 import logger from './logger/logger';
 import httpRequestMiddleWare from './middlewares/httpLogger';
 
@@ -9,9 +10,7 @@ class Server {
     this.config = option;
     this.app.use(express.json());
     this.app.use(express.urlencoded({ extended : true }));
-    this.app.get('/', httpRequestMiddleWare, async(req: Request, res : Response) => {
-      res.send('Typescript & express server')
-    });
+    this.app.get('/api/v1', httpRequestMiddleWare, controllers.ping.checkALl)
   }
 
   async startServer() {

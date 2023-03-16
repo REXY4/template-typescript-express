@@ -18,6 +18,4 @@ const app :App = {
   description,
 }
 
-export {
-    app,
-}
+export default app
