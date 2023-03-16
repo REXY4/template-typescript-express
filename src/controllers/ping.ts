@@ -3,7 +3,7 @@ import response from '../heplers/response';
 
 async function checkALl(req:Request, res:Response) {
   try {
-    res.send(response('create data success', null))
+    res.send(response('Ping:Ok', null))
   } catch (error) {
     res.status(500).send({
       statusCode : 500,
