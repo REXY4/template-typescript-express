@@ -1438,3 +1438,6 @@
 [[32minfo[39m] 2023-03-17 00:07:45:745 | [32mInitialization success[39m
 [[35mhttp[39m] 2023-03-17 00:07:46:746 | [35mGET /api/v1/reqruitment/32bf67e5-4971-47ce-985c-44b6b3860cdb 200 6049 - 1366.607 ms[39m
 [35m[39m
+[[32minfo[39m] 2023-03-17 00:08:56:856 | [32m⚡️[server]: Server is running at http://localhost:4000[39m
+[[32minfo[39m] 2023-03-17 00:08:56:856 | [32mConnected to database success[39m
+[[32minfo[39m] 2023-03-17 00:08:56:856 | [32mInitialization success[39m

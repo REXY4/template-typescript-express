@@ -1,4 +1,4 @@
-# Awesome Project Build with TypeORM
+# express-typescript
 
 Steps to run this project:
 
