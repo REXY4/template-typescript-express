@@ -6,6 +6,7 @@ import { errorHandler } from './exceptions/error-handler';
 import logger from './logger/logger';
 import httpRequestMiddleware from './middlewares/httpLogger';
 import routers from './routers';
+import cors from 'cors';
 
 interface Route {
   method: 'get' | 'post' | 'put' | 'delete';
@@ -20,6 +21,7 @@ class Server {
   constructor(option: any) {
     this.config = option;
     this.app = express();
+    this.app.use(cors())
     this.app.use(express.json());
     this.app.use(express.urlencoded({ extended: true }));
     this.app.get('/api/v1', httpRequestMiddleware, controllers.ping.checkALl);

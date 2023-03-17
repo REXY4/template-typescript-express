@@ -6,9 +6,16 @@ interface CustomRequest extends Request{
   id : number
 }
 
+interface ReqQuery {
+  description?: string;
+  location?: string;
+  page?: string;
+  full_time?: string;
+}
+
 async function getALl(req:Request, res: Response, next : NextFunction) {
   try {
-    const { description, location, page, full_time } = req.params;
+    const { description, location, page, full_time } = req.query as ReqQuery;
     const result = await services.reqruitment.getAll({
       description, location, page, full_time,
     });

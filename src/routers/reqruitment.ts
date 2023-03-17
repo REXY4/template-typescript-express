@@ -16,7 +16,7 @@ const moduleRouteDef:Object = {
       summary: 'reqruitment',
       description: 'Get all Reqruitment',
       action: [
-        authentication,
+        // authentication,
         controllers.reqruitment.getALl,
       ],
     },
